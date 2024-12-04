@@ -1,0 +1,32 @@
+ [
+  {
+    "icon": "./images/basic.svg",
+    "name": "BASIC PLAN",
+    "price": "85",
+    "features": [
+      "2 hours of excercises",
+      "Free consultaion to coaches",
+      "Access to The Community"
+    ]
+  },
+  {
+    "icon": "./images/premium.svg",
+    "name": "PREMIUM PLAN",
+    "price": "120",
+    "features": [
+      "5 hour of excercises",
+      "Free consultaion of Coaches",
+      "Access to minibar"
+    ]
+  },
+  {
+    "icon": "./images/pro.svg",
+    "name": "PRO PLAN",
+    "price": "155",
+    "features": [
+      "8 hours of excercises",
+      "Consultation of Private Coach",
+      "Free Fitness Merchandises"
+    ]
+  }
+]
